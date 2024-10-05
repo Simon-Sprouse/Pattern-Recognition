@@ -43,3 +43,7 @@ canvas {
     margin-left: 200px;
     margin-right: 200px;
 }
+
+canvas:hover {
+    border: 2px solid white;
+}
